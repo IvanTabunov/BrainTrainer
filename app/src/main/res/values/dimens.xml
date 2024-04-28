@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_inside_textview">32dp</dimen>
+    <dimen name="text_size_options">24sp</dimen>
+    <dimen name="text_size_score">24sp</dimen>
+    <dimen name="text_size_timer">24sp</dimen>
+    <dimen name="text_size_question">32sp</dimen>
+</resources>
